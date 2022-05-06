@@ -72,7 +72,7 @@
 
 <p align="center">
 
-<a href="https://t.me/ryujin_xd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-ryujin-xd-blue?style=flat-square&logo=Telegram"></a>
+<a href="https://t.me/ryujin_xd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-ryujin_xd-blue?style=flat-square&logo=Telegram"></a>
 
 <a href="mailto: ryujinxd6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ryujinxd6@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
